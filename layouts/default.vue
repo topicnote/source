@@ -2,12 +2,12 @@
 <div>
 <div>
     <header>
-  <a href="/" class="logo">TopicNote</a>
-  <a href="/" class="button">Project</a>
-  <a href="/about" class="button">Team</a>
+  <a href="/corp" class="logo">TopicNote</a>
+  <a href="/corp" class="button">Project</a>
+  <a href="/corp/about" class="button">Team</a>
   <!-- <a href="blog" class="button">Blog</a> -->
    <!-- <a href="demo" class="button">Demo</a> -->
-    <a href="/join" class="button">Join</a>
+    <a href="/corp/join" class="button">Join</a>
 </header>
 
 </div>
